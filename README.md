@@ -16,7 +16,7 @@
 Open to work · Remote friendly · [gide749@gmail.com](mailto:gide749@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-codja-4356a2361/?locale=fr) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joelcodja.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://codjajoel.vercel.app)
 ---
 
 Junior backend developer drawn to the logic and problem-solving behind every feature. I also work on mobile development, where turning ideas into functional apps feels like solving puzzles. Looking for opportunities to grow, contribute, and tackle real challenges alongside a great team.
