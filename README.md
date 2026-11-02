@@ -26,13 +26,21 @@ I build backends at [Lixali Studio](https://lixalistudio.tech): developer-facing
   <img src="assets/deck.png" alt="Projects: MakiSend and linkedin-scheduler, shipped in October 2026; Supasecret, coming in November 2026; Voctra, coming in December 2026." width="100%">
 </a>
 
-<img src="assets/icons/makisend.svg" width="20" height="20" alt="" align="center">&nbsp; **[MakiSend](https://makisend.lixalistudio.tech)** &nbsp;·&nbsp; Open-source transactional email that runs on your own Cloudflare account. [Code](https://github.com/lixalistudio-oss/makisend)
+<img src="assets/icons/makisend.svg" width="20" height="20" alt="" align="center">&nbsp; **MakiSend** &nbsp;·&nbsp; Open-source transactional email that runs on your own Cloudflare account.
 
-<img src="assets/icons/linkedin-scheduler.svg" width="20" height="20" alt="" align="center">&nbsp; **[linkedin-scheduler](https://linkedin-scheduler.makisend-poc.workers.dev)** &nbsp;·&nbsp; Write LinkedIn posts in advance as Markdown files and let cron publish them through LinkedIn's official API. [Code](https://github.com/cjdotdev/linkedin-scheduler)
+<a href="https://makisend.lixalistudio.tech"><img src="assets/btn-site.png" alt="Visit MakiSend" height="36"></a> <a href="https://github.com/lixalistudio-oss/makisend"><img src="assets/btn-code.png" alt="MakiSend's code" height="36"></a>
 
-<img src="assets/icons/zeroknowledge.svg" width="20" height="20" alt="" align="center">&nbsp; **Supasecret** &nbsp;·&nbsp; Coming Nov 2026. Share secrets through one-time links, encrypted in the browser so the server never reads them.
+<img src="assets/icons/linkedin-scheduler.svg" width="20" height="20" alt="" align="center">&nbsp; **linkedin-scheduler** &nbsp;·&nbsp; Write LinkedIn posts in advance as Markdown files and let cron publish them through LinkedIn's official API.
 
-<img src="assets/icons/pulse.svg" width="20" height="20" alt="" align="center">&nbsp; **Voctra** &nbsp;·&nbsp; Coming Dec 2026. A VS Code extension to send HTTP requests, read responses and save them in collections, without leaving the editor.
+<a href="https://linkedin-scheduler.makisend-poc.workers.dev"><img src="assets/btn-site.png" alt="Visit linkedin-scheduler" height="36"></a> <a href="https://github.com/cjdotdev/linkedin-scheduler"><img src="assets/btn-code.png" alt="linkedin-scheduler's code" height="36"></a>
+
+<img src="assets/icons/zeroknowledge.svg" width="20" height="20" alt="" align="center">&nbsp; **Supasecret** &nbsp;·&nbsp; Share secrets through one-time links, encrypted in the browser so the server never reads them.
+
+<img src="assets/btn-coming-nov.png" alt="Coming Nov 2026" height="36">
+
+<img src="assets/icons/pulse.svg" width="20" height="20" alt="" align="center">&nbsp; **Voctra** &nbsp;·&nbsp; A VS Code extension to send HTTP requests, read responses and save them in collections, without leaving the editor.
+
+<img src="assets/btn-coming-dec.png" alt="Coming Dec 2026" height="36">
 
 <br>
 
