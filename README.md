@@ -3,15 +3,11 @@
 </a>
 
 <p align="center">
-  <img src="assets/icons/portfolio.svg" width="18" height="18" alt="" align="center">&nbsp;<a href="https://joelcodja.pages.dev"><b>Portfolio</b></a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/writing.svg" width="16" height="16" alt="" align="center">&nbsp;<a href="https://joelcodja.pages.dev/blog/">Writing</a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/linkedin.svg" width="16" height="16" alt="" align="center">&nbsp;<a href="https://www.linkedin.com/in/joel-codja-4356a2361/">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/x.svg" width="14" height="14" alt="" align="center">&nbsp;<a href="https://x.com/Gide749Gide">X</a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/mail.svg" width="16" height="16" alt="" align="center">&nbsp;<a href="mailto:gide749@gmail.com">gide749@gmail.com</a>
+  <a href="https://joelcodja.pages.dev"><img src="assets/btn-portfolio.png" alt="Visit my portfolio" height="44"></a>
+  <a href="mailto:gide749@gmail.com"><img src="assets/btn-email.png" alt="Email me" height="44"></a>
+  <a href="https://joelcodja.pages.dev/blog/"><img src="assets/btn-writing.png" alt="Writing" height="44"></a>
+  <a href="https://www.linkedin.com/in/joel-codja-4356a2361/"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="44"></a>
+  <a href="https://x.com/Gide749Gide"><img src="assets/btn-x.png" alt="X" height="44"></a>
 </p>
 
 <br>
