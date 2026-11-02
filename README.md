@@ -3,15 +3,15 @@
 </a>
 
 <p align="center">
-  <a href="https://joelcodja.pages.dev"><b>Portfolio</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://joelcodja.pages.dev/blog/">Writing</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/joel-codja-4356a2361/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/Gide749Gide">X</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:gide749@gmail.com">gide749@gmail.com</a>
+  <img src="assets/icons/portfolio.svg" width="18" height="18" alt="" align="center">&nbsp;<a href="https://joelcodja.pages.dev"><b>Portfolio</b></a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/writing.svg" width="16" height="16" alt="" align="center">&nbsp;<a href="https://joelcodja.pages.dev/blog/">Writing</a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/linkedin.svg" width="16" height="16" alt="" align="center">&nbsp;<a href="https://www.linkedin.com/in/joel-codja-4356a2361/">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/x.svg" width="14" height="14" alt="" align="center">&nbsp;<a href="https://x.com/Gide749Gide">X</a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/mail.svg" width="16" height="16" alt="" align="center">&nbsp;<a href="mailto:gide749@gmail.com">gide749@gmail.com</a>
 </p>
 
 <br>
@@ -30,22 +30,17 @@ I build backends at [Lixali Studio](https://lixalistudio.tech): developer-facing
   <img src="assets/deck.png" alt="Projects: MakiSend and linkedin-scheduler, shipped in October 2026; Supasecret, coming in November 2026; Voctra, coming in December 2026." width="100%">
 </a>
 
-**[MakiSend](https://makisend.lixalistudio.tech)** &nbsp;·&nbsp; Open-source transactional email that runs on your own Cloudflare account. [Code](https://github.com/lixalistudio-oss/makisend)
+<img src="assets/icons/makisend.svg" width="20" height="20" alt="" align="center">&nbsp; **[MakiSend](https://makisend.lixalistudio.tech)** &nbsp;·&nbsp; Open-source transactional email that runs on your own Cloudflare account. [Code](https://github.com/lixalistudio-oss/makisend)
 
-**[linkedin-scheduler](https://linkedin-scheduler.makisend-poc.workers.dev)** &nbsp;·&nbsp; Write LinkedIn posts in advance as Markdown files and let cron publish them through LinkedIn's official API. [Code](https://github.com/cjdotdev/linkedin-scheduler)
+<img src="assets/icons/linkedin-scheduler.svg" width="20" height="20" alt="" align="center">&nbsp; **[linkedin-scheduler](https://linkedin-scheduler.makisend-poc.workers.dev)** &nbsp;·&nbsp; Write LinkedIn posts in advance as Markdown files and let cron publish them through LinkedIn's official API. [Code](https://github.com/cjdotdev/linkedin-scheduler)
 
-**Supasecret** &nbsp;·&nbsp; Coming Nov 2026. Share secrets through one-time links, encrypted in the browser so the server never reads them.
+<img src="assets/icons/zeroknowledge.svg" width="20" height="20" alt="" align="center">&nbsp; **Supasecret** &nbsp;·&nbsp; Coming Nov 2026. Share secrets through one-time links, encrypted in the browser so the server never reads them.
 
-**Voctra** &nbsp;·&nbsp; Coming Dec 2026. A VS Code extension to send HTTP requests, read responses and save them in collections, without leaving the editor.
+<img src="assets/icons/pulse.svg" width="20" height="20" alt="" align="center">&nbsp; **Voctra** &nbsp;·&nbsp; Coming Dec 2026. A VS Code extension to send HTTP requests, read responses and save them in collections, without leaving the editor.
 
 <br>
 
-### The tools I use
-
-**Languages** &nbsp; TypeScript · SQL · Python<br>
-**APIs** &nbsp; Hono · Node.js · REST · OpenAPI · Scalar · Zod<br>
-**Cloud and data** &nbsp; Cloudflare Workers · D1 · Queues · Workflows · Drizzle · SQLite · PostgreSQL<br>
-**Quality and delivery** &nbsp; Vitest · GitHub Actions · Docker
+<img src="assets/tools.png" alt="The tools I use. Languages: TypeScript, SQL, Python. APIs: Hono, Node.js, REST, OpenAPI, Scalar, Zod. Cloud and data: Cloudflare Workers, D1, Queues, Workflows, Drizzle, SQLite, PostgreSQL. Quality and delivery: Vitest, GitHub Actions, Docker." width="100%">
 
 <br>
 
