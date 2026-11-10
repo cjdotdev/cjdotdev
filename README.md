@@ -32,7 +32,7 @@ I build backends at [Lixali Studio](https://lixalistudio.tech): developer-facing
 
 <img src="assets/icons/inkslot.svg" width="20" height="20" alt="" align="center">&nbsp; **inkslot** &nbsp;·&nbsp; Write LinkedIn posts as Markdown in your own repo, push, and a Cloudflare Worker on your own account publishes each one at its minute.
 
-<a href="https://inkslot.makisend-poc.workers.dev"><img src="assets/btn-site.png" alt="Visit inkslot" height="36"></a> <a href="https://github.com/cjdotdev/linkedin-scheduler"><img src="assets/btn-code.png" alt="inkslot's code" height="36"></a>
+<a href="https://inkslot.joelcodja.com"><img src="assets/btn-site.png" alt="Visit inkslot" height="36"></a> <a href="https://github.com/cjdotdev/linkedin-scheduler"><img src="assets/btn-code.png" alt="inkslot's code" height="36"></a>
 
 <img src="assets/icons/zeroknowledge.svg" width="20" height="20" alt="" align="center">&nbsp; **Supasecret** &nbsp;·&nbsp; Share secrets through one-time links, encrypted in the browser so the server never reads them.
 
